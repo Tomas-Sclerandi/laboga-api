@@ -1,0 +1,933 @@
+[
+  {
+    "grupo": "A",
+    "fecha": "2025-05-17",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "DB PLOMERIA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "SOI"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ASTU FC",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "DEPORTIVO FRANZA",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ALTA PINTA FC",
+        "equipo2": "SPORTIVO BRANCA"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-05-31",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "SANTOS FC",
+        "equipo2": "A CARA DE PERRO"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "LA BOGA FC",
+        "equipo2": "AIRE NUEVO"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "DB PLOMERÍA",
+        "equipo2": "FUERA DE JUEGO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SPORTIVO BRANCA",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "SOI",
+        "equipo2": "ALTA PINTA"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-06-07",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "SPORTIVO BRANCA"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "SOI",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "ALTA PINTA FC",
+        "equipo2": "AIRE NUEVO"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ASTU FC",
+        "equipo2": "REALCOHOLICOS"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-06-14",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "SOI"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DB PLOMERIA",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "SPORTIVO BRANCA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "REALCOHOLICOS",
+        "equipo2": "TIEMPO EXTRA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "LA BOGA FC",
+        "equipo2": "ALTA PINTA FC"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-06-21",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "SOI",
+        "equipo2": "FUERA DE JUEGO"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "AIRE NUEVO"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "REALCOHOLICOS",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ASTU FC",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "DB PLOMERIA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "DEPORTIVO FRANZA",
+        "equipo2": "ALTA PINTA FC"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-06-28",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "ALTA PINTA FC"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "SPORTIVO BRANCA",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "DB PLOMERÍA",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "LA BOGA FC",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SANTOS FC",
+        "equipo2": "TIEMPO EXTRA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "FUERA DE JUEGO"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-07-05",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "SOI",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "ALTA PINTA FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "DB PLOMERÍA",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "REALCOHOLICOS",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "SPORTIVO BRANCA"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-07-12",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "DEPORTIVO FRANZA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "SPORTIVO BRANCA",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SANTOS FC",
+        "equipo2": "DB PLOMERÍA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "SOI",
+        "equipo2": "TIEMPO EXTRA"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-07-19",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "FUERA DE JUEGO"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "SOI",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "DB PLOMERIA",
+        "equipo2": "SPORTIVO BRANCA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ASTU FC",
+        "equipo2": "ALTA PINTA FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SANTOS FC",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "AIRE NUEVO"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-07-26",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "SPORTIVO BRANCA",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "DEPORTIVO FRANZA",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ALTA PINTA FC",
+        "equipo2": "TIEMPO EXTRA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "LA BOGA FC"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-08-02",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "SPORTIVO BRANVA",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "ASTU FC"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "SOI",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "DB PLOMERÍA",
+        "equipo2": "AIRE NUEVO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "REALCOHOLICOS",
+        "equipo2": "ALTA PINTA FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "DEPORTIVO FRANZA"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-08-09",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "TIEMPO EXTRA"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DEPORTIVO FRANZA",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "ALTA PINTA FC",
+        "equipo2": "DB PLOMERÍA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AIRE NUEVO",
+        "equipo2": "SANTOS FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SOI",
+        "equipo2": "SPORTIVO BRANCA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "FUERA DE JUEGO",
+        "equipo2": "ASTU FC"
+      }
+    ]
+  },
+  {
+    "grupo": "A",
+    "fecha": "2025-08-16",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "A CARA DE PERRO",
+        "equipo2": "REALCOHOLICOS"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "SOI",
+        "equipo2": "LA BOGA FC"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "SANTOS FC",
+        "equipo2": "ALTA PINTA FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "TIEMPO EXTRA",
+        "equipo2": "FUERA DE JUEGO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "SPORTIVO BRANCA",
+        "equipo2": "AIRE NUEVO"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "DB PLOMERÍA",
+        "equipo2": "DEPORTIVO FRANZA"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-05-17",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "HALCONES",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "DT BILARDO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FCC",
+        "equipo2": "AGUILA DORADA"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-05-31",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "MALATASARAY"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "AMIPACK"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "PALO GOL"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "LA NOTA",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "AGARRATE CATALINA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ESPN",
+        "equipo2": "HALCONES"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-07",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "HALCONES",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "ESPN",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "AGUILA DORADA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FC",
+        "equipo2": "PALO FOL"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-14",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "AMIPACK"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "MALATASARAY"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "APL",
+        "equipo2": "ESPN"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "LA NOTA",
+        "equipo2": "AGARRATE CATALINA"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-21",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "APL",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "HALCONES",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ESPN",
+        "equipo2": "DT BILARDO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "PALO GOL"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "EL TINO FC"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-28",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "AMIPACK"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "MALATASARAY"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "ESPN"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FC",
+        "equipo2": "AGARRATE CATALINA"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-07-05",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "APL",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "HALCONES",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "ESPN",
+        "equipo2": "AGUILA DORADA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "MALATASARAY"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-07-12",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "AGARRATE CATALINA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "LA NOTA",
+        "equipo2": "ESPN"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "DT BILARDO"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "AMIPACK"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-07-19",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "AGUILA DORADA"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "APL",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "HALCONES",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "AGARRATE CATALINA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ESPN",
+        "equipo2": "PALO GOL"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-07-26",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "AMIPACK"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "LA NOTA",
+        "equipo2": "DT BILARDO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FC",
+        "equipo2": "ESPN"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-08-02",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "PALO GOL"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "APL",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "HALCONES",
+        "equipo2": "AGARRATE CATALINA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ESPN",
+        "equipo2": "MALATASARAY"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-08-09",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "LA NOTA",
+        "equipo2": "AGUILA DORADA"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "ESPN"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FC",
+        "equipo2": "DT BILARDO"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-08-16",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "PALO GOL"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "MALATASARAY"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "APL",
+        "equipo2": "AGARRATE CATALINA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "EL TINO FC"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "ESPN",
+        "equipo2": "AMIPACK"
+      }
+    ]
+  }
+]
