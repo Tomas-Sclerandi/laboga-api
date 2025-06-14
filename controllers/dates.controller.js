@@ -29,14 +29,18 @@ exports.getProximosPartidosLaBoga = async (req, res) => {
         const partidos = JSON.parse(data);
 
         const hoy = new Date();
+        hoy.setHours(0, 0, 0, 0);
+        console.log(hoy);
 
         const proximos = partidos.filter(p => {
             const fechaPartido = new Date(p.fecha);
+            fechaPartido.setHours(0, 0, 0, 0);
+            console.log(fechaPartido);
             return fechaPartido >= hoy;
         });
-
+        console.log(proximos);
         res.json(proximos);
     } catch (err) {
-        res.status(500).json({ error: 'No se pudieron cargar los próximos partidos de LA BOGA FC' });
+        res.status(500).json({ error: `No se pudieron cargar los próximos partidos de LA BOGA FC, ${err}` });
     }
 };
