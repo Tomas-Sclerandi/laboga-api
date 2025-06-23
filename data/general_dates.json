@@ -1,7 +1,7 @@
 [
   {
     "grupo": "A",
-    "fecha": "2025-05-17",
+    "fecha": "2025-05-10",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -37,7 +37,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-05-31",
+    "fecha": "2025-05-17",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -73,7 +73,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-06-07",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -109,7 +109,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-06-14",
+    "fecha": "2025-05-31",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -145,7 +145,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-06-21",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -181,7 +181,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-06-28",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -217,7 +217,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-07-05",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -253,7 +253,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-07-12",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -289,7 +289,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-07-19",
+    "fecha": "2025-07-05",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -325,7 +325,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-07-26",
+    "fecha": "2025-07-12",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -356,7 +356,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-08-02",
+    "fecha": "2025-07-19",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -392,7 +392,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-08-09",
+    "fecha": "2025-07-26",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -428,7 +428,7 @@
   },
   {
     "grupo": "A",
-    "fecha": "2025-08-16",
+    "fecha": "2025-08-2",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -464,7 +464,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-05-17",
+    "fecha": "2025-05-10",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -500,7 +500,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-05-31",
+    "fecha": "2025-05-17",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -536,7 +536,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-06-07",
+    "fecha": "2025-05-24",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -572,7 +572,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-06-14",
+    "fecha": "2025-05-31",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -602,6 +602,78 @@
       {
         "hora": "16:45HS",
         "equipo1": "LA NOTA",
+        "equipo2": "AGARRATE CATALINA"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-07",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "APL",
+        "equipo2": "FECHA LIBRE"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "HALCONES",
+        "equipo2": "PORRON"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "AMIPACK",
+        "equipo2": "LA NOTA"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "ESPN",
+        "equipo2": "DT BILARDO"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "PALO GOL"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "MALATASARAY",
+        "equipo2": "EL TINO FC"
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "fecha": "2025-06-14",
+    "partidos": [
+      {
+        "hora": "13:00HS",
+        "equipo1": "AGUILA DORADA",
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "13:45HS",
+        "equipo1": "DT BILARDO",
+        "equipo2": "APL"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "PALO GOL",
+        "equipo2": "AMIPACK"
+      },
+      {
+        "hora": "15:15HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "MALATASARAY"
+      },
+      {
+        "hora": "16:00HS",
+        "equipo1": "PORRON",
+        "equipo2": "ESPN"
+      },
+      {
+        "hora": "16:45HS",
+        "equipo1": "EL TINO FC",
         "equipo2": "AGARRATE CATALINA"
       }
     ]
@@ -612,33 +684,33 @@
     "partidos": [
       {
         "hora": "13:00HS",
-        "equipo1": "APL",
+        "equipo1": "DT BILARDO",
         "equipo2": "FECHA LIBRE"
       },
       {
         "hora": "13:45HS",
-        "equipo1": "HALCONES",
+        "equipo1": "APL",
         "equipo2": "PORRON"
       },
       {
         "hora": "14:30HS",
-        "equipo1": "AMIPACK",
+        "equipo1": "HALCONES",
         "equipo2": "LA NOTA"
       },
       {
         "hora": "15:15HS",
-        "equipo1": "ESPN",
-        "equipo2": "DT BILARDO"
+        "equipo1": "AMIPACK",
+        "equipo2": "EL TINO FC"
       },
       {
         "hora": "16:00HS",
-        "equipo1": "AGARRATE CATALINA",
-        "equipo2": "PALO GOL"
+        "equipo1": "ESPN",
+        "equipo2": "AGUILA DORADA"
       },
       {
         "hora": "16:45HS",
-        "equipo1": "MALATASARAY",
-        "equipo2": "EL TINO FC"
+        "equipo1": "AGARRATE CATALINA",
+        "equipo2": "MALATASARAY"
       }
     ]
   },
@@ -649,32 +721,32 @@
       {
         "hora": "13:00HS",
         "equipo1": "AGUILA DORADA",
-        "equipo2": "HALCONES"
-      },
-      {
-        "hora": "13:45HS",
-        "equipo1": "DT BILARDO",
         "equipo2": "APL"
       },
       {
-        "hora": "14:30HS",
+        "hora": "13:45HS",
         "equipo1": "PALO GOL",
-        "equipo2": "AMIPACK"
+        "equipo2": "HALCONES"
+      },
+      {
+        "hora": "14:30HS",
+        "equipo1": "FECHA LIBRE",
+        "equipo2": "AGARRATE CATALINA"
       },
       {
         "hora": "15:15HS",
-        "equipo1": "FECHA LIBRE",
-        "equipo2": "MALATASARAY"
+        "equipo1": "LA NOTA",
+        "equipo2": "ESPN"
       },
       {
         "hora": "16:00HS",
         "equipo1": "PORRON",
-        "equipo2": "ESPN"
+        "equipo2": "DT BILARDO"
       },
       {
         "hora": "16:45HS",
-        "equipo1": "EL TINO FC",
-        "equipo2": "AGARRATE CATALINA"
+        "equipo1": "MALATASARAY",
+        "equipo2": "AMIPACK"
       }
     ]
   },
@@ -685,32 +757,32 @@
       {
         "hora": "13:00HS",
         "equipo1": "DT BILARDO",
-        "equipo2": "FECHA LIBRE"
+        "equipo2": "AGUILA DORADA"
       },
       {
         "hora": "13:45HS",
         "equipo1": "APL",
-        "equipo2": "PORRON"
+        "equipo2": "LA NOTA"
       },
       {
         "hora": "14:30HS",
         "equipo1": "HALCONES",
-        "equipo2": "LA NOTA"
+        "equipo2": "EL TINO FC"
       },
       {
         "hora": "15:15HS",
         "equipo1": "AMIPACK",
-        "equipo2": "EL TINO FC"
+        "equipo2": "AGARRATE CATALINA"
       },
       {
         "hora": "16:00HS",
-        "equipo1": "ESPN",
-        "equipo2": "AGUILA DORADA"
+        "equipo1": "PORRON",
+        "equipo2": "FECHA LIBRE"
       },
       {
         "hora": "16:45HS",
-        "equipo1": "AGARRATE CATALINA",
-        "equipo2": "MALATASARAY"
+        "equipo1": "ESPN",
+        "equipo2": "PALO GOL"
       }
     ]
   },
@@ -721,78 +793,6 @@
       {
         "hora": "13:00HS",
         "equipo1": "AGUILA DORADA",
-        "equipo2": "APL"
-      },
-      {
-        "hora": "13:45HS",
-        "equipo1": "PALO GOL",
-        "equipo2": "HALCONES"
-      },
-      {
-        "hora": "14:30HS",
-        "equipo1": "FECHA LIBRE",
-        "equipo2": "AGARRATE CATALINA"
-      },
-      {
-        "hora": "15:15HS",
-        "equipo1": "LA NOTA",
-        "equipo2": "ESPN"
-      },
-      {
-        "hora": "16:00HS",
-        "equipo1": "PORRON",
-        "equipo2": "DT BILARDO"
-      },
-      {
-        "hora": "16:45HS",
-        "equipo1": "MALATASARAY",
-        "equipo2": "AMIPACK"
-      }
-    ]
-  },
-  {
-    "grupo": "B",
-    "fecha": "2025-07-19",
-    "partidos": [
-      {
-        "hora": "13:00HS",
-        "equipo1": "DT BILARDO",
-        "equipo2": "AGUILA DORADA"
-      },
-      {
-        "hora": "13:45HS",
-        "equipo1": "APL",
-        "equipo2": "LA NOTA"
-      },
-      {
-        "hora": "14:30HS",
-        "equipo1": "HALCONES",
-        "equipo2": "EL TINO FC"
-      },
-      {
-        "hora": "15:15HS",
-        "equipo1": "AMIPACK",
-        "equipo2": "AGARRATE CATALINA"
-      },
-      {
-        "hora": "16:00HS",
-        "equipo1": "PORRON",
-        "equipo2": "FECHA LIBRE"
-      },
-      {
-        "hora": "16:45HS",
-        "equipo1": "ESPN",
-        "equipo2": "PALO GOL"
-      }
-    ]
-  },
-  {
-    "grupo": "B",
-    "fecha": "2025-07-26",
-    "partidos": [
-      {
-        "hora": "13:00HS",
-        "equipo1": "AGUILA DORADA",
         "equipo2": "PORRON"
       },
       {
@@ -824,7 +824,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-08-02",
+    "fecha": "2025-07-19",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -860,7 +860,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-08-09",
+    "fecha": "2025-07-28",
     "partidos": [
       {
         "hora": "13:00HS",
@@ -896,7 +896,7 @@
   },
   {
     "grupo": "B",
-    "fecha": "2025-08-16",
+    "fecha": "2025-08-02",
     "partidos": [
       {
         "hora": "13:00HS",
